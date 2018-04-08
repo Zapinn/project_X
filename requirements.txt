@@ -1,3 +1,10 @@
 Flask==0.12.2
 numpy==1.14.0
 scipy==1.0.0
+click==6.7
+itsdangerous==0.24
+Jinja2==2.10
+MarkupSafe==1.0
+requests==2.18.4
+ruamel-yaml==0.15.35
+Werkzeug==0.14.1
